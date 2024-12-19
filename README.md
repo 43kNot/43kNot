@@ -3,10 +3,10 @@
 </div>
 
 ## 🧝🏾 About Me:
-🥊 I fight against fascism on a daily basis<br>
-🌱 I’m working towards JavaScript mastery<br>
-🤝 Open to collaborating with other learners<br>
-💬 I'm slowly solving my wordpress problems<br>
+🥊  I fight against fascism on a daily basis<br>
+🌱  I’m working towards JavaScript mastery<br>
+🤝  I'm open to collaborating with others<br>
+💬  I'm slowly solving my wordpress problems<br>
 
 
 ## 💻 Tech Stack:
