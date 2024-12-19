@@ -4,9 +4,9 @@
 
 ## 🧝🏾 About Me:
 🥊 I fight against fascism on a daily basis<br>
-🌱 I’m currently learning CSS & JavaScript<br>
-🤝 I’m looking to meet other programmers<br>
-💬 Ask me about my wordpress problems<br>
+🌱 I’m working towards JavaScript mastery<br>
+🤝 Open to collaborating with other learners<br>
+💬 I'm slowly solving al my wordpress problems<br>
 
 
 ## 💻 Tech Stack:
@@ -19,8 +19,8 @@
   <img width="12" />
   <img src="https://pngimg.com/uploads/php/php_PNG10.png" height="36" alt="php logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="react logo"/>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="react logo"/>
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   <img width="12" />
 </div>
