@@ -6,7 +6,7 @@
 🥊 I fight against fascism on a daily basis<br>
 🌱 I’m working towards JavaScript mastery<br>
 🤝 Open to collaborating with other learners<br>
-💬 I'm slowly solving al my wordpress problems<br>
+💬 I'm slowly solving my wordpress problems<br>
 
 
 ## 💻 Tech Stack:
